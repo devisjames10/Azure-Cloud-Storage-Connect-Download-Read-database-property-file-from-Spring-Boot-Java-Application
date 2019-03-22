@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class WhiskeyAzureController {
+public class AzureStorageController {
 
 	 @Autowired
 	    private JdbcTemplate jdbcTemplate;
