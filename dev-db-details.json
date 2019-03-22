@@ -1,0 +1,8 @@
+{
+  "jdbcURL":"jdbc:postgresql://localhost:5432/postgres",
+  "jdbcUserName":"postgres",
+  "jdbcPwd":"root",
+  "driverName":"org.postgresql.Driver"
+  
+  // #same other property values
+ }
